@@ -1,4 +1,4 @@
 # hello-world
 learning version control - git
 
-BlitzKodings - for the love of programming!!!
+BlitzKodings - Messianic codings - for the love of programming!!!
